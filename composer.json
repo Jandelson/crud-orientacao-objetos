@@ -1,0 +1,14 @@
+{
+    "name": "jandelson/crud",
+    "description": "testes de crud orientação a objeto",
+    "authors": [{
+        "name": "Jandelson Oliveira",
+        "email": "jandelson_oliveira@yahoo.com.br"
+    }],
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Crud\\": "src/"
+        }
+    }
+}
